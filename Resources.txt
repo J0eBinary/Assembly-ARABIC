@@ -1,0 +1,13 @@
+Resources:
+https://www.cs.uaf.edu/courses/cs301/2014-fall/notes/bits/
+https://portal.abuad.edu.ng/lecturer/documents/1595337617Advanced.pdf
+https://www.forth.com/starting-forth/7-signed-double-length-numbers/
+https://www.tutorialspoint.com/unsigned-and-signed-binary-numbers
+https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/x64-architecture
+https://www.learncomputerscienceonline.com/
+https://wiki.cdot.senecacollege.ca/wiki/X86_64_Register_and_Instruction_Quick_Start
+https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
+http://6.s081.scripts.mit.edu/sp18/x86-64-architecture-guide.html
+https://en.wikibooks.org/wiki/X86_Assembly/X86_Architecture
+https://www.byteshuffle.com/author/mcsmurf/
+https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
