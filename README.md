@@ -12,11 +12,13 @@ We talked about data types such as WORD, DWORD, BYTE,etc. and this section is on
 
 ## Registers
 Register are small (really small!) storage places in the CPU that holds data or memory addresses, and in this section we discussed registers and why they are useful for us and what types of registers we have, and their job
+
 ![image](https://user-images.githubusercontent.com/55762160/183264651-b02c3d10-7cd9-4d18-b771-951f1dbccb46.png)
 ![image](https://user-images.githubusercontent.com/55762160/183264673-bb567d52-d6a0-4e06-83c9-2b12bf9dd5b1.png)
 
 ## The Stack
 This section discussed what is the stack. how does it work? why it is useful? and many more, we also talked about stack prologue and epilogue which are very useful to understand in case of reverse engineering or binary exploitation.
+
 ![image](https://user-images.githubusercontent.com/55762160/183265319-21077bd1-89cb-4d3f-b132-fcf3bfc8bb65.png)
 ![image](https://user-images.githubusercontent.com/55762160/183265330-6d4523c4-11e1-4c06-a6ec-2eefb15967e4.png)
 
@@ -27,6 +29,7 @@ We talked about most used instructions such as ADD, SUB, MOV, etc., and control 
 
 ## Bitwise operation and logical operation
 In this section, we briefly discuss what are bitwise and logical operations, and give examples of most of the instructions used.
+
 ![image](https://user-images.githubusercontent.com/55762160/183265666-5ee29131-0dff-48a5-9b24-48570a34947d.png)
 
 ![image](https://user-images.githubusercontent.com/55762160/183265730-c9f125d2-85ec-4a38-8581-616f455413e5.png)
