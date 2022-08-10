@@ -1,7 +1,8 @@
 # Assembly-ARABIC
 An Assembly language course written in Arabic to teach technicians and Cybersecurity specialists the basics of Assembly language in x86 and x64 architectures.
 
-
+**You can access the course via downloading the pdf file or accessing this URL**
+https://caramel.la/j0e_binary/ZqVLVsf4Y/lghh-assembly-balarby
 
 ## What is Assembly language 
 In this section we talked about what is assembly language and what is it used for and what types of architecture do we have.
