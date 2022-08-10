@@ -32,4 +32,3 @@ In this section, we briefly discuss what are bitwise and logical operations, and
 
 ![image](https://user-images.githubusercontent.com/55762160/183265666-5ee29131-0dff-48a5-9b24-48570a34947d.png)
 
-![image](https://user-images.githubusercontent.com/55762160/183265730-c9f125d2-85ec-4a38-8581-616f455413e5.png)
